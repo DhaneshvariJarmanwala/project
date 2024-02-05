@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-03T14:52:04 IST" name="Default suite" finished-at="2024-02-03T14:53:12 IST" duration-ms="68460">
+    <groups>
+    </groups>
+    <test started-at="2024-02-03T14:52:04 IST" name="Default test" finished-at="2024-02-03T14:53:12 IST" duration-ms="68460">
+      <class name="mvn.MainTest">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:52:04 IST" name="beforetest" finished-at="2024-02-03T14:52:04 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="Browser()[pri:0, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:52:04 IST" name="Browser" finished-at="2024-02-03T14:52:14 IST" duration-ms="9935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="Registation()[pri:0, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:52:14 IST" name="Registation" finished-at="2024-02-03T14:52:40 IST" duration-ms="26285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registation -->
+        <test-method signature="login()[pri:1, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:52:40 IST" name="login" finished-at="2024-02-03T14:52:48 IST" duration-ms="7979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Sidemenu()[pri:2, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:52:48 IST" name="Sidemenu" finished-at="2024-02-03T14:53:07 IST" duration-ms="18751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sidemenu -->
+        <test-method signature="ss()[pri:3, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:53:07 IST" name="ss" finished-at="2024-02-03T14:53:09 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ss -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:mvn.MainTest@201a4587]" started-at="2024-02-03T14:53:09 IST" name="closeBrowser" finished-at="2024-02-03T14:53:12 IST" duration-ms="3217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- mvn.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
